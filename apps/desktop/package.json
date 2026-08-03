@@ -1,0 +1,13 @@
+{
+  "name": "@voice-ai/desktop",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/main.test.mjs"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}

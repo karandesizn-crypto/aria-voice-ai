@@ -1,0 +1,9 @@
+# Voice AI Platform
+
+Ignore Python bytecode and virtualenvs if editors open these folders directly.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
